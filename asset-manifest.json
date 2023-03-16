@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reach-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/reach-gh-pages/static/js/main.eaea49a0.js",
-    "static/js/787.50b188d9.chunk.js": "/reach-gh-pages/static/js/787.50b188d9.chunk.js",
-    "static/media/logo.svg": "/reach-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/reach-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/reach-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.eaea49a0.js.map": "/reach-gh-pages/static/js/main.eaea49a0.js.map",
-    "787.50b188d9.chunk.js.map": "/reach-gh-pages/static/js/787.50b188d9.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-gh-pages/static/js/main.6f2c2754.js",
+    "static/js/787.50b188d9.chunk.js": "/react-gh-pages/static/js/787.50b188d9.chunk.js",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.6f2c2754.js.map": "/react-gh-pages/static/js/main.6f2c2754.js.map",
+    "787.50b188d9.chunk.js.map": "/react-gh-pages/static/js/787.50b188d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.eaea49a0.js"
+    "static/js/main.6f2c2754.js"
   ]
 }
